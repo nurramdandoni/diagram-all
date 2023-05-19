@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T07:55:24.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="-DtM6pVEdEKVcZPIb-DE" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T08:01:18.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="TQzjEGyIj7YG-sBJNNYG" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1222" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,7 +232,50 @@
           <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5g_yiBCIWojVpbgfXN-V-82" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-84" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5g_yiBCIWojVpbgfXN-V-85" target="5g_yiBCIWojVpbgfXN-V-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-85" value="&lt;div&gt;Dashboard &lt;br&gt;&lt;/div&gt;&lt;div&gt;Pie Chart&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5g_yiBCIWojVpbgfXN-V-84" target="5g_yiBCIWojVpbgfXN-V-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="740" as="sourcePoint" />
+            <mxPoint x="410" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="740" />
+              <mxPoint x="800" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5g_yiBCIWojVpbgfXN-V-87" target="5g_yiBCIWojVpbgfXN-V-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-87" value="Proses Ambil Data Pengaduan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-89" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.417;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5g_yiBCIWojVpbgfXN-V-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="740" as="sourcePoint" />
+            <mxPoint x="550" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="830" />
+              <mxPoint x="480" y="830" />
+              <mxPoint x="480" y="720" />
+              <mxPoint x="550" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5g_yiBCIWojVpbgfXN-V-90" target="5g_yiBCIWojVpbgfXN-V-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-90" value="&lt;div&gt;Tapilkan Data &lt;br&gt;&lt;/div&gt;&lt;div&gt;Chart By Filter&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
