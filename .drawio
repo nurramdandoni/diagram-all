@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T07:42:45.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ZGvyZ90aumUHC0L8blkJ" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T07:46:13.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="tOdLb1qH02BFf0izhk99" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1222" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="5g_yiBCIWojVpbgfXN-V-56" value="&lt;div&gt;Tampilkan Status&lt;/div&gt;&lt;div&gt;Pengaduan&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="605" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5g_yiBCIWojVpbgfXN-V-60" value="&lt;div&gt;Tindak Lanjuti&lt;/div&gt;&lt;div&gt;Pengaduan&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
