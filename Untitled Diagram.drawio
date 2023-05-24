@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T07:10:34.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="4EXa7J78EJ9R07Ef0Jkn" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T07:11:10.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="lxqEkfNfRn1KPhQr5uxc" version="21.2.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3008" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -200,25 +200,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1413" value="QRIS" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="393" width="120" height="40" as="geometry" />
+          <mxGeometry x="1520" y="331.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1414" value="E-Wallet" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1521" y="291.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1570" y="231.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1415" value="Virtual Account" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1611" y="231.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1681" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1416" value="Credit Cards" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1781" y="181.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1870" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1417" value="Penarikan Dana/ Disbutsment" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1852" y="301.5" width="184" height="40" as="geometry" />
+          <mxGeometry x="1921" y="271.5" width="184" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1418" value="Pelaporan" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1941" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1422" value="Payment Notification" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="516.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1870" y="516.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1424" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1413" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
