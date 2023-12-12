@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T10:00:41.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="L4jJr9phoZJZs_SfNNOd" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T10:18:27.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="BBqh_MbcywYTro-ilxlT" version="22.1.7" type="github">
   <diagram name="Page-1" id="cB6-q6-sBfIPuh-v84tD">
     <mxGraphModel dx="1919" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -380,8 +380,11 @@
         <mxCell id="i9Y9PTabGPXXXa_qy1XM-102" value="DFD Presensi Online Level 1 - 2 (Fitur Presensi)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="1022" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9Y9PTabGPXXXa_qy1XM-103" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="369" y="1130" width="60" height="60" as="geometry" />
+        <mxCell id="i9Y9PTabGPXXXa_qy1XM-103" value="&lt;div&gt;2&lt;/div&gt;&lt;div&gt;Detail&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i9Y9PTabGPXXXa_qy1XM-104" value="User" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1138.75" width="100" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
