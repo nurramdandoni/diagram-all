@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T11:18:12.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ZflkDTKpoUrNerQEUTed" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T11:19:01.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="jSKdTfWbMmxZer7Gwaw-" version="22.1.7" type="github">
   <diagram name="Page-1" id="cB6-q6-sBfIPuh-v84tD">
     <mxGraphModel dx="1042" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -642,13 +642,10 @@
           <mxGeometry x="281" y="2170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i9Y9PTabGPXXXa_qy1XM-165" value="&lt;div&gt;15&lt;/div&gt;&lt;div&gt;Syncronisasi&lt;/div&gt;&lt;div&gt;Data&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="599" y="2230" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="i9Y9PTabGPXXXa_qy1XM-166" value="&lt;div&gt;16&amp;nbsp;&lt;/div&gt;&lt;div&gt;Report HCP&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2310" width="80" height="80" as="geometry" />
+          <mxGeometry x="439" y="2360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i9Y9PTabGPXXXa_qy1XM-167" value="&lt;div&gt;17&lt;/div&gt;&lt;div&gt;Setting&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="509" y="2410" width="80" height="80" as="geometry" />
+          <mxGeometry x="509" y="2220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i9Y9PTabGPXXXa_qy1XM-169" value="DFD Presensi Online Level 1 (Fitur Admin)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="2640" width="240" height="30" as="geometry" />
